@@ -1,5 +1,5 @@
 # 💫About Me :
-<table style={width: 100%}>
+<table style="display: 'table'">
 <tr>
   <td>
 <div>🔭 I’m currently working on FastBoy Marketing</div>
