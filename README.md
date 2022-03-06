@@ -1,7 +1,22 @@
 <h1 align="center">Hi 👋, I'm Minh Tran</h1>
 <h3 align="center">Now I am FrontEnd developer in VietNam</h3>
 
-- 🔭 I’m currently working on FastBoy Marketing **CRM**
+<table>
+<tr>
+  <td valign="center">
+    🔭 I’m currently working on FastBoy Marketing **CRM**
+<td >
+    <a href="https://app.daily.dev/Rhitta"><img src="https://api.daily.dev/devcards/63cd2d3debc44564b7cd51dd70386991.png?r=o0p" width="400" alt="Minh Tran's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhth-1529&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="minhth-1529" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=minhth-1529&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="minhth-1529" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=minhth-1529&theme=highcontrast&hide_border=true" alt="minhth-1529" />
+</p>
 
 # 🛠️Tools and Technologies:
 
