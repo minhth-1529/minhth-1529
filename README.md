@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Minh Tran</h1>
 <h3 align="center">Now I am FrontEnd developer in VietNam</h3>
 
+# 🛠️Tools and Technologies:
+
+![Github](https://user-images.githubusercontent.com/70682152/153578819-6b5fc829-d2ee-4406-9b13-247862e8b51b.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhth-1529&label=Profile%20views&color=0e75b6&style=flat" alt="minhth-1529" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhth-1529" alt="minhth-1529" /></a> </p>
