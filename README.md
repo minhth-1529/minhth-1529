@@ -5,7 +5,7 @@
 <tr>
   <td valign="center">
     🔭 I’m currently working on FastBoy Marketing **CRM**
-    <p>I love to create different of <strong>contents</strong></p>
+    <p>![image](https://user-images.githubusercontent.com/17897146/156917906-661bfc4e-9042-47ba-8b85-3bae7d53941e.png) I love to create different of <strong>contents</strong></p>
 <td >
     <a href="https://app.daily.dev/Rhitta"><img src="https://api.daily.dev/devcards/63cd2d3debc44564b7cd51dd70386991.png?r=o0p" width="400" alt="Minh Tran's Dev Card"/></a>
   </td>
