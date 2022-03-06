@@ -6,7 +6,16 @@
 <div>🎯 My Goal is to Contribute to as many as possible.</div>
 <div>✨ I love to create different types of content.</div>
 
+</br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhth-1529&theme=dracula&hide_border=true)
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=minhth-1529&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=minhth-1529&icon=2&color=4)](https://visitcount.itsvg.in)
+---
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/minh.th1529) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minh-trần-481b62146) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9996368) 
@@ -17,9 +26,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=minhth-1529&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minhth-1529&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhth-1529&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=minhth-1529&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=minhth-1529&icon=2&color=4)](https://visitcount.itsvg.in)
