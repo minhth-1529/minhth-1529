@@ -13,7 +13,7 @@
 </table>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhth-1529&theme=tokyonight_duo&show_icons=true" alt="minhth-1529" /> 
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhth-1529&theme=dracula&show_icons=true" alt="minhth-1529" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minhth-1529&theme=onedark&show_icons=true" alt="minhth-1529" />
   <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=minhth-1529&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D" alt="minhth-1529" />
 </p>
