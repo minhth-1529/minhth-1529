@@ -5,7 +5,7 @@
 <tr>
   <td valign="center">
     <p>🔭 I’m currently working on FastBoy Marketing **CRM**.</p>
-        <p>🎯 My Goal is to Contribute to as many <strong<open source project</strong> as possible.</p>
+        <p>🎯 My Goal is to <strong>Contribute</strong> to as many <strong<open source project</strong> as possible.</p>
     <p>    ✨ I love to create different types of <strong>contents</strong>.</p>
 <td >
     <a href="https://app.daily.dev/Rhitta"><img src="https://api.daily.dev/devcards/63cd2d3debc44564b7cd51dd70386991.png?r=o0p" width="400" alt="Minh Tran's Dev Card"/></a>
