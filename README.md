@@ -4,7 +4,7 @@
 <table>
 <tr>
   <td valign="center">
-    <p>🔭 I’m currently working on FastBoy Marketing **CRM**.</p>
+    <p>🔭 I’m currently working on <strong>FastBoy Marketing</strong>.</p>
         <p>🎯 My Goal is to <strong>Contribute</strong> to as many <strong<open source project</strong> as possible.</p>
     <p>    ✨ I love to create different types of <strong>contents</strong>.</p>
 <td >
