@@ -18,10 +18,6 @@
   <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=minhth-1529&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="minhth-1529" />
 </p>
 
-# 🛠️Tools and Technologies:
-
-![Github](https://user-images.githubusercontent.com/70682152/153578819-6b5fc829-d2ee-4406-9b13-247862e8b51b.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhth-1529&label=Profile%20views&color=0e75b6&style=flat" alt="minhth-1529" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minhth-1529" alt="minhth-1529" /></a></p>
