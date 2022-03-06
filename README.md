@@ -35,7 +35,6 @@
 <a href="https://stackoverflow.com/users/9996368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9996368" height="30" width="40" /></a>
 <a href="https://fb.com/minh.th1529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minh.th1529" height="30" width="40" /></a>
 <a href="https://medium.com/@minh.th1529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@minh.th1529" height="30" width="40" /></a>
-<a href="//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
