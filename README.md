@@ -15,7 +15,7 @@
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhth-1529&show_icons=true&theme=radical" alt="minhth-1529" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minhth-1529&show_icons=true&theme=radical" alt="minhth-1529" />
-  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=minhth-1529&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="minhth-1529" />
+  <img width="50%" src="http://github-readme-streak-stats.herokuapp.com?user=minhth-1529&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="minhth-1529" />
 </p>
 
 # 🛠️Tools and Technologies:
