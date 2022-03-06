@@ -9,7 +9,7 @@
   <td >
     <a href="https://app.daily.dev/Rhitta"><img src="https://api.daily.dev/devcards/63cd2d3debc44564b7cd51dd70386991.png?r=o0p" width="400" alt="Minh Tran's Dev Card"/></a>
   </td>
-  </tr
+  </tr>
 </table>
 
 ## 🌐Socials
