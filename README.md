@@ -1,10 +1,10 @@
 # 💫About Me :
-<table width=100%>
+<table style={width: 100%}>
 <tr>
   <td>
 <div>🔭 I’m currently working on FastBoy Marketing</div>
-🎯 <div>My Goal is to Contribute to as many as possible.</div>
-✨ <div>I love to create different types of content.</div>
+<div>🎯 My Goal is to Contribute to as many as possible.</div>
+<div>✨ I love to create different types of content.</div>
   </td>
   <td >
     <a href="https://app.daily.dev/Rhitta"><img src="https://api.daily.dev/devcards/63cd2d3debc44564b7cd51dd70386991.png?r=o0p" width="400" alt="Minh Tran's Dev Card"/></a>
