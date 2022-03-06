@@ -6,6 +6,8 @@
 <div>🎯 My Goal is to Contribute to as many as possible.</div>
 <div>✨ I love to create different types of content.</div>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=minhth-1529&theme=dracula&hide_border=true)
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/minh.th1529) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minh-trần-481b62146) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9996368) 
 
